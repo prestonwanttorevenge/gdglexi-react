@@ -1,6 +1,6 @@
 # GDGLexi (React + TailwindCSS)
 
-Landing page giới thiệu chương trình luyện thi **IELTS & VSTEP** lớp nhỏ trực thuộc **Google Developer Groups on Campus - DUT** (Trường ĐH Bách Khoa - ĐH Đà Nẵng), được xây dựng lại bằng **React 19 + Vite + Tailwind CSS v4** theo hướng thiết kế **Exam Gate & Intake Board** (Impeccable, no-ai-slop).
+Landing page giới thiệu chương trình luyện thi **IELTS & VSTEP** lớp nhỏ trực thuộc **Google Developer Groups on Campus - DUT** (Trường ĐH Bách Khoa - ĐH Đà Nẵng), được xây dựng lại bằng **React 19 + Vite + Tailwind CSS v4** theo hướng thiết kế **Exam Gate & Intake Board**.
 
 ## Tính năng chính
 
